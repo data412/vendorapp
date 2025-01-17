@@ -1,0 +1,28 @@
+{
+  "name": "sharepoint",
+  "version": "1.0.0",
+  "description": "Sharepoint Authentication Page",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodemon": "nodemon ./server.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "debug": "^4.1.1",
+    "express": "^4.15.2",
+    "node": "^14.0.0",
+    "nodemon": "^2.0.4",
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.6",
+    "@types/node": "^14.0.1",
+    "@types/body-parser": "^1.19.0"
+  },
+  "author": "j3aDesign",
+  "license": "ISC"
+}
